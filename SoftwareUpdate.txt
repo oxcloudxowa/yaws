@@ -1,1 +1,1 @@
-Add TensorRT Docs Integrations Page (#7855)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
