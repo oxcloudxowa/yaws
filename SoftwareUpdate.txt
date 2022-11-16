@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Replacing Images for torchscript.md (#8596)
