@@ -1,1 +1,1 @@
-ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
