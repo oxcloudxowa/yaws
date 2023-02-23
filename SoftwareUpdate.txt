@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+Fix Multi-GPU resume bug (#7328)
