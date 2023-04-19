@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Updated SQL Query Plot Code (#8120)
