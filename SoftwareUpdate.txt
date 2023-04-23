@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Docs partial mdformat improvements (#7378)
