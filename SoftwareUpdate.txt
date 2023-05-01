@@ -1,1 +1,1 @@
-Fix an issue with flatbuffer version for Raspberry Pi (#8311)
+Disable Tab Limit - Disables the default tab limit (varies giữa devices)
