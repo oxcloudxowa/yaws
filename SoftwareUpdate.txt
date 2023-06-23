@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Update OpenVINO INT8 export (#7515)
