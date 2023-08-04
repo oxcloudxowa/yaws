@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
