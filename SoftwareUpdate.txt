@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Remove unused variables (#8511)
