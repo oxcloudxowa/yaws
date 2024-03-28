@@ -1,1 +1,1 @@
-Update fraction arg to employ a random selection (#8234)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
