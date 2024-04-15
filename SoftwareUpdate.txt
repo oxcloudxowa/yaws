@@ -1,1 +1,1 @@
-Add brain-tumor dataset docs page (#9041)
+Optimize function calls to method calls (#8507)
